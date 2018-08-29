@@ -5,12 +5,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
-<link rel="stylesheet" type="text/css" href="../css/index.css"/>
 </head>
 <body>
-<header>Homepage Title</header>
-<div id="login"><jsp:include page="login.jsp"/></div>
-<div id="main"><jsp:include page="body.jsp"/></div>
-<footer>주식회사 찐붕어</footer>
+<img src="../image/index_main.jpg">
 </body>
 </html>
