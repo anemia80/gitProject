@@ -11,6 +11,6 @@
 <header>Homepage Title</header>
 <div id="login"><jsp:include page="login.jsp"/></div>
 <div id="main"><jsp:include page="body.jsp"/></div>
-<footer>주식회사 찐붕어</footer>
+<footer>주식회사 크롱팬더양날개뿌잉프록시</footer>
 </body>
 </html>
