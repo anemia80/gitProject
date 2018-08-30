@@ -7,7 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<input type="text" size="15" id="id" placeholder="아이디 입력">
-<input type="password" size="15" id="pwd" placeholder="비밀번호 입력">
+ID:<br>
+<input type="text" name="id" id="id" size="20"><br><br>
+Password:<br>
+<input type="password" name="pwd" id="pwd" size="20">
 </body>
 </html>
