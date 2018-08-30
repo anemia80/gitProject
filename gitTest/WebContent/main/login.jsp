@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-로그인 화면 입니다.
+<input type="text" size="15" id="id" placeholder="아이디 입력">
+<input type="password" size="15" id="pwd" placeholder="비밀번호 입력">
 </body>
 </html>
